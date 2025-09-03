@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 bon j'ai tout supprimer
 pour tester
 ps:kevin
+=======
+modifier la meme ligne essaie 2 (nikita)
+salut kevin !
+>>>>>>> 07672a7e35602a7241aca68ed212c7fac0f21082
